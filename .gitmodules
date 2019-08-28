@@ -1,0 +1,12 @@
+[submodule "pybind11"]
+	path = lib/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "catch"]
+	path = lib/catch
+	url = https://github.com/philsquared/Catch.git
+[submodule "src/sam/backend"]
+	path = src/sam/backend
+	url = git@github.com:mayukuner/SAM-Backend.git
+[submodule "src/sam/eigen3"]
+	path = src/sam/eigen3
+	url = git@github.com:eigenteam/eigen-git-mirror.git
